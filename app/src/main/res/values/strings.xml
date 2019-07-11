@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="profile_name"><font size="20">Osarugue Enehizena</font></string>
+    <string name="track">Track</string>
+    <string name="android">Android</string>
+    <string name="country">Country</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="email">Email</string>
+    <string name="nehirugue_gmail_com">nehirugue@gmail.com</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="_2348031980992">2348031980992</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="rugue">\@rugue</string>
+    <string name="title_activity_scrolling_profile">ScrollingProfile</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+</resources>
